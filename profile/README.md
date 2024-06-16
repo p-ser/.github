@@ -75,6 +75,7 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
+<br>
 
 ## 아키텍처
 ![피서 아키텍처](https://github.com/p-ser/.github/assets/91861082/ac656cb1-8347-43a5-aad1-41dedcbeeab7)
