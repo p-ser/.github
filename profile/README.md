@@ -83,7 +83,9 @@
 <br>
 
 ## 아키텍처
-![피서 아키텍처](https://github.com/p-ser/.github/assets/91861082/fdc7c7b7-e697-4993-99c7-2cea8960805f)
+![피서 아키텍처](https://github.com/p-ser/.github/assets/91861082/3757c674-97a2-43a4-88e1-116426877f0d)
+
+<br>
 
 ## 기능 소개
 <h4>Member</h4>
