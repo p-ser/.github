@@ -1,5 +1,5 @@
 # 🥇 숙소 예약 및 경매 플랫폼 '피서' (최우수상)
-![pser_info](https://github.com/p-ser/.github/assets/91861082/f8ce38bd-22db-47e7-8124-34cf4d57c985)
+![pser_info](https://github.com/p-ser/.github/assets/91861082/094f5ea7-8469-400d-9812-0689dfe6f891)
 - 배포 URL: https://kakaocloud-dev.web.app
 - 비용 문제로 현재는 중단한 상태입니다.
 <br>
@@ -9,7 +9,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:
 |<img src="https://github.com/p-ser/.github/assets/91861082/43089030-0b0e-4e36-9709-5aa3fb71f599" width="100" />|<img src="https://github.com/p-ser/.github/assets/91861082/5d23cc92-e155-49dc-bab9-f6ec9151f77b" width="100" />|<img src="https://github.com/p-ser/.github/assets/91861082/b951d785-5c7d-4d0d-9e00-44734e1d6c59" width="100" />|<img src="https://github.com/p-ser/.github/assets/91861082/a9427dc5-7ab2-436a-b577-ddea7ccaba20" width="100" />|<img src="https://github.com/p-ser/.github/assets/91861082/5c6281f8-7248-425c-9121-d6a27f402a4a" width="100" />|<img src="https://github.com/p-ser/.github/assets/91861082/497b152b-cf23-4539-ae8a-5496b23fb4e6" width="100" />|<img src="https://github.com/p-ser/.github/assets/91861082/f95b3ab3-22f1-4567-a355-11b4a7288b76" width="100" />|
 |BE|BE|FE|BE|BE, FE|BE|FE|
-|예약 기능|리뷰 기능|숙소 조회 페이지, 경매 페이지, 예약 페이지, 검색 페이지|아키텍처 설계, 경매 기능, 예약 기능, 백엔드 서버 배포, 프론트엔드 서버 배포|객실 기능, 회원가입 및 로그인 기능|전체 숙소, 타임 특가 숙소 관련 기능|메인 페이지, 숙소 및 객실 등록 페이지, 마이페이지(예약, 리뷰, 즐겨찾기)|
+|예약 기능|리뷰 기능|숙소 조회 페이지, 경매 페이지, 예약 페이지, 검색 페이지|아키텍처 설계, 경매 기능, 예약 기능, 회원가입 및 로그인 기능, 백엔드 서버 배포, 프론트엔드 서버 배포|객실 기능, 회원가입 및 로그인 연동|전체 숙소, 타임 특가 숙소 관련 기능|메인 페이지, 숙소 및 객실 등록 페이지, 마이페이지(예약, 리뷰, 즐겨찾기)|
 <br>
 
 ## 프로젝트 소개
